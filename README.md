@@ -1,1 +1,0 @@
-# Byadagi Mandi Management System
